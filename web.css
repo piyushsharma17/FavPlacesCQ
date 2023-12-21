@@ -33,7 +33,7 @@ img{
     height: 100%;
     background-position: center;
     background-size: cover;
-    background-image: linear-gradient(rgba(254, 176, 103, 0.804),rgba(232, 199, 142, 0.75)),url(img/bg2.jpg);
+    background-image: linear-gradient(rgba(247, 176, 110, 0.804),rgba(232, 199, 142, 0.75)),url(img/bg2.jpg);
     background-color: rgba(239, 193, 66, 0.685);
     border-radius: 5em;
     border-top: 1.5em solid rgb(180, 85, 13);
