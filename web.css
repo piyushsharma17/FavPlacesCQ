@@ -5,7 +5,7 @@
     margin: -.5em;
     background-position: center;
     background-size:cover;
-    background-image: linear-gradient(rgba(242, 195, 151, 0.684),rgba(230, 204, 159, 0.75)),url(img/bg2.jpg);
+    background-image: linear-gradient(rgba(242, 195, 151, 0.684),rgba(230, 204, 159, 0.75)),url(bg2.jpg);
 }
 header{
    
